@@ -51,6 +51,7 @@ class _MyAppState extends State<MyApp> {
             height: 250,
             child: ScrollDatePicker(
               selectedDate: _selectedDate,
+              minimumDate: DateTime(2017, 6, 6),
               locale: Locale('en'),
               onDateTimeChanged: (DateTime value) {
                 setState(() {
