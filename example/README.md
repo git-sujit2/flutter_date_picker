@@ -1,6 +1,6 @@
-# scroll_date_picker_example
+# flutter_date_picker_example
 
-Demonstrates how to use the scroll_date_picker plugin.
+Demonstrates how to use the flutter_date_picker plugin.
 
 ## Getting Started
 

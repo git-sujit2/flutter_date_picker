@@ -4,7 +4,7 @@ A customizable and easy-to-use date picker library for Flutter.
 
 Compatible with Android & iOS & Web. :heart_eyes:
 
-[![pub](https://img.shields.io/pub/v/scroll_date_picker)](https://pub.dev/packages/scroll_date_picker)
+[![pub](https://img.shields.io/pub/v/flutter_date_picker)](https://pub.dev/packages/flutter_date_picker)
 
 <br>
 
@@ -20,7 +20,7 @@ In the pubspec.yaml of your flutter project, add the following dependency:
 
 ```yaml
 dependencies:
-  scroll_date_picker: "^lastest_version"
+  flutter_date_picker: "^lastest_version"
 ```
 
 <br>
@@ -30,7 +30,7 @@ dependencies:
 Need to include the import the package to the dart file where it will be used, refer the below command
 
 ```dart
-import 'package:scroll_date_picker/scroll_date_picker.dart';
+import 'package:flutter_date_picker/flutter_date_picker.dart';
 ```
 
 <br>
@@ -39,7 +39,7 @@ import 'package:scroll_date_picker/scroll_date_picker.dart';
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:scroll_date_picker/scroll_date_picker.dart';
+import 'package:flutter_date_picker/flutter_date_picker.dart';
 
 void main() {
   runApp(MaterialApp(home: const MyApp()));

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:scroll_date_picker/scroll_date_picker.dart';
-import 'package:scroll_date_picker/src/extensions/list_extension.dart';
-import 'package:scroll_date_picker/src/extensions/string_extension.dart';
+import 'package:flutter_date_picker/flutter_date_picker.dart';
+import 'package:flutter_date_picker/src/extensions/list_extension.dart';
+import 'package:flutter_date_picker/src/extensions/string_extension.dart';
 
 class DateScrollView extends StatelessWidget {
   const DateScrollView({
